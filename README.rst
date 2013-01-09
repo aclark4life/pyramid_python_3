@@ -852,3 +852,16 @@ for more information.
     To git@heroku.com:pyramid-python-3.git
      ! [remote rejected] master -> master (pre-receive hook declined)
     error: failed to push some refs to 'git@heroku.com:pyramid-python-3.git'
+
+
+Debug
+=====
+
+::
+
+    aclark@Alexs-MacBook-Pro:~/Developer/pyramid_python_3/ > heroku run bash                    
+    Running `bash` attached to terminal... up, run.7917
+    ~ $ echo $LANG
+
+    ~ $ 
+
