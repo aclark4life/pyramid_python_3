@@ -1,3 +1,9 @@
+This repo demonstrates a problem with the Heroku Python 3.3 environment, see: 
+
+- https://github.com/Pylons/pyramid/issues/785
+
+for more information.
+
 ::
 
     aclark@Alexs-MacBook-Pro:~/Developer/pyramid_python_3/ > git push heroku master
