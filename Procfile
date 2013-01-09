@@ -1,1 +1,1 @@
-web: python runapp.py
+web: echo $LANG; python runapp.py
