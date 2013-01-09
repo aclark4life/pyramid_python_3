@@ -1,1 +1,1 @@
-web: echo $LANG; python runapp.py
+web: export LANG=en_US.UTF-8; python runapp.py
