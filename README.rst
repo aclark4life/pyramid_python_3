@@ -1,7 +1,7 @@
 Heroku Python 3.3 Bug
 =====================
 
-This repository demonstrates a problem with the Heroku Python 3.3 environment, see: 
+This repository demonstrates a bug with the Heroku Python 3.3 environment, see:
 
 - https://github.com/Pylons/pyramid/issues/785
 
