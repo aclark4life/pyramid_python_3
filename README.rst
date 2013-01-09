@@ -865,3 +865,4 @@ Debug
 
     ~ $ 
 
+Should be: en_US.UTF-8
